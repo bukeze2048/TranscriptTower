@@ -40,4 +40,4 @@ Contributions are what make the open-source community such a great place to be. 
 * Push to the Branch (git push origin feature/AmazingFeature)
 * Open a Pull Request
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the BSD-3-Clause License - see the LICENSE.md file for details.
