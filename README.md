@@ -41,3 +41,6 @@ Contributions are what make the open-source community such a great place to be. 
 * Open a Pull Request
 ## License
 This project is licensed under the BSD-3-Clause License - see the LICENSE.md file for details.
+
+# Credits
+* TranscriptTower was created by Ezekiel Olubukola OGUNKUNLE
